@@ -1,0 +1,5 @@
+A script that should be able to calculate the amount of relative sunlight
+(vs directly overhead) that is recieved on a particular angle on a particular
+day/time.
+
+This is to be used to calculate the theoretic yield of solar pannels.
